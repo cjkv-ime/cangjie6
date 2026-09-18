@@ -6,6 +6,6 @@
 原碼有許多外字（如AAAA）卽直接以倉頡系統內碼顯示作`&AAAA;`。而鑒於該系統並未公開，計劃使用以倉頡系統編內碼的漢文庫典中之文字圖像為準，製作該碼表的圖像版。
 
 # 與 [其他碼表](https://github.com/LEOYoon-Tsaw/Cangjie6) 的差異
-相闗鏈結：[倉五補完計畫](https://github.com/Jackchows/Cangjie5)、[倉三補完計畫](https://github.com/Arthurmcarthur/Cangjie3-Plus)
+相闗鏈結：[倉五補完計畫](https://github.com/Jackchows/Cangjie5)、[倉三補完計畫](https://github.com/Arthurmcarthur/Cangjie3-Plus)、[蒼頡檢字法](https://github.com/LEOYoon-Tsaw/Cangjie6)
 
-- 本計劃目的爲復原原始的碼表，以利其後改進，而不與上述「補完計劃」系列增字、加入容許碼。
+本計劃目的爲復原原始的碼表，以利其後改進，而不與上述「補完計劃」系列增字、加入容許碼。
